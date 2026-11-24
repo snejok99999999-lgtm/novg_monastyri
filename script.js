@@ -133,8 +133,8 @@
   function renderIntro() {
     panel.innerHTML = `
       <section class="intro">
-        <div class="intro__label">Исторические объекты</div>
-        <h1>Монастыри Великого Новгорода</h1>
+        <div class="intro__label">Монастыри Великого Новгорода</div>
+        <h1>Novg Monastyri</h1>
         <p class="intro__hint">Кликните на точку, зону или участок</p>
         <div class="intro__count">25 точек на карте</div>
         <div class="intro__legend"><span class="intro__legend-line"></span>Граница Великого Новгорода</div>
@@ -146,7 +146,7 @@
             <span>Показать зоны ПЗЗ</span>
           </label>
           <div class="pzz-legend">${renderPzzLegend()}</div>
-          <p class="pzz-legend__note">Зоны из Правил землепользования и застройки Великого Новгорода и Новгородского муниципального района.</p>
+          <p class="pzz-legend__note">Зоны из Правил землепользования и застройки Великого Новгорода и Новгородского муниципального района. Источник: Портал ГИСОГД Новгородской области.</p>
         </div>
       </section>
     `;
@@ -201,7 +201,7 @@
           ${factRow('Категория', pzzCategory(props))}
           ${factRow('Тип зоны', props.type_zone)}
           ${factRow('Регистрационный номер', props.reg_numb_border)}
-          ${factRow('Источник', props.source === 'part1' ? 'PZZ_part1' : 'PZZ_part2')}
+          ${factRow('Источник', 'Портал ГИСОГД Новгородской области')}
         </dl>
         <p class="pzz-card__note">Нажмите «К обзору» или клавишу Esc, чтобы вернуться к списку.</p>
       </article>
