@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 2436" width="1400" height="2436">
+<defs>
+<linearGradient id="water" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d8ecf5"/><stop offset="1" stop-color="#bfdceb"/></linearGradient>
+</defs>
+<rect width="1400" height="2436" fill="#eef1f3"/>
+<line x1="0.0" y1="2436.0" x2="0.0" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="212.1" y1="2436.0" x2="212.1" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="424.2" y1="2436.0" x2="424.2" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="636.4" y1="2436.0" x2="636.4" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="848.5" y1="2436.0" x2="848.5" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="1060.6" y1="2436.0" x2="1060.6" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="1272.7" y1="2436.0" x2="1272.7" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="1400.0" y1="2436.0" x2="1400.0" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="0.0" y1="2436.0" x2="1400.0" y2="2436.0" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="0.0" y1="2031.4" x2="1400.0" y2="2031.4" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="0.0" y1="1626.3" x2="1400.0" y2="1626.3" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="0.0" y1="1220.6" x2="1400.0" y2="1220.6" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="0.0" y1="814.3" x2="1400.0" y2="814.3" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="0.0" y1="407.4" x2="1400.0" y2="407.4" stroke="#dfe5ea" stroke-width="1"/>
+<line x1="0.0" y1="0.0" x2="1400.0" y2="0.0" stroke="#dfe5ea" stroke-width="1"/>
+<path d="M 0.0,2436.0 L 424.2,2436.0 L 933.3,2355.1 L 1315.2,2112.4 L 1272.7,1788.4 L 1018.2,1626.3 L 721.2,1626.3 L 424.2,1869.5 L 127.3,2112.4 L 0.0,2193.3  Z" fill="url(#water)" stroke="#a9c9d8" stroke-width="2"/>
+<ellipse cx="814.5" cy="952.5" rx="48" ry="34" fill="#d7e8d2" opacity="1"/>
+<ellipse cx="424.2" cy="326.0" rx="95" ry="70" fill="#d7e8d2" opacity="0.8"/>
+<ellipse cx="1187.9" cy="326.0" rx="80" ry="60" fill="#d7e8d2" opacity="0.8"/>
+<ellipse cx="254.5" cy="163.0" rx="60" ry="48" fill="#d7e8d2" opacity="0.8"/>
+<ellipse cx="1060.6" cy="1464.1" rx="55" ry="42" fill="#d7e8d2" opacity="0.6"/>
+<path d="M 615.2,1180.0 L 890.9,1180.0 L 954.5,895.6 L 869.7,692.3 L 678.8,692.3 L 615.2,895.6  Z" fill="#f7f2e8" opacity="0.85" stroke="#e6ded0" stroke-width="1.5"/>
+<path d="M 806.1,1626.3 L 848.5,1464.1 L 827.3,1301.8 L 784.8,1139.4 L 729.7,976.9 L 704.2,814.3 L 687.3,570.3 L 661.8,326.0 L 636.4,0.0" fill="none" stroke="#a9c9d8" stroke-width="16" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 806.1,1626.3 L 848.5,1464.1 L 827.3,1301.8 L 784.8,1139.4 L 729.7,976.9 L 704.2,814.3 L 687.3,570.3 L 661.8,326.0 L 636.4,0.0" fill="none" stroke="#d8ecf5" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 0.0,1058.2 L 424.2,1017.5 L 678.8,976.9 L 933.3,1017.5 L 1400.0,1058.2" fill="none" stroke="#d5dae0" stroke-width="11" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 763.6,2436.0 L 784.8,1869.5 L 806.1,1301.8 L 814.5,814.3 L 848.5,0.0" fill="none" stroke="#d5dae0" stroke-width="10" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 806.1,976.9 L 975.8,814.3 L 1103.0,651.6 L 1251.5,513.3" fill="none" stroke="#d5dae0" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 784.8,895.6 L 593.9,692.3 L 381.8,407.4 L 292.7,220.1" fill="none" stroke="#d5dae0" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 848.5,976.9 L 1018.2,976.9 L 1098.8,1017.5" fill="none" stroke="#d5dae0" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 763.6,1058.2 L 814.5,1220.6 L 784.8,1326.1" fill="none" stroke="#d5dae0" stroke-width="9" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 721.2,895.6 L 678.8,976.9 L 670.3,1139.4" fill="none" stroke="#d5dae0" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 890.9,976.9 L 899.4,1220.6 L 897.3,1245.0" fill="none" stroke="#d5dae0" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 636.4,976.9 L 742.4,928.1 L 755.2,928.1" fill="none" stroke="#d5dae0" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 0.0,1058.2 L 424.2,1017.5 L 678.8,976.9 L 933.3,1017.5 L 1400.0,1058.2" fill="none" stroke="#ffffff" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 763.6,2436.0 L 784.8,1869.5 L 806.1,1301.8 L 814.5,814.3 L 848.5,0.0" fill="none" stroke="#ffffff" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 806.1,976.9 L 975.8,814.3 L 1103.0,651.6 L 1251.5,513.3" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 784.8,895.6 L 593.9,692.3 L 381.8,407.4 L 292.7,220.1" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 848.5,976.9 L 1018.2,976.9 L 1098.8,1017.5" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 763.6,1058.2 L 814.5,1220.6 L 784.8,1326.1" fill="none" stroke="#ffffff" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 721.2,895.6 L 678.8,976.9 L 670.3,1139.4" fill="none" stroke="#ffffff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 890.9,976.9 L 899.4,1220.6 L 897.3,1245.0" fill="none" stroke="#ffffff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 636.4,976.9 L 742.4,928.1 L 755.2,928.1" fill="none" stroke="#ffffff" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="755.2" y="920.0" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="#4b5563" text-anchor="middle">ВЕЛИКИЙ НОВГОРОД</text>
+<text x="712.7" y="529.6" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#5b8ca8" text-anchor="start">р. Волхов</text>
+<text x="721.2" y="1991.0" font-family="system-ui, sans-serif" font-size="15" font-weight="600" fill="#5b8ca8" text-anchor="middle">оз. Ильмень</text>
+<text x="827.3" y="765.5" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#94a3b8" text-anchor="start">Деревяницы</text>
+<text x="1187.9" y="407.4" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#94a3b8" text-anchor="start">Хутынь</text>
+<text x="297.0" y="163.0" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#94a3b8" text-anchor="start">Вяжищи</text>
+<text x="1081.8" y="976.9" font-family="system-ui, sans-serif" font-size="11" font-weight="400" fill="#94a3b8" text-anchor="start">Ковалёво</text>
+<text x="848.5" y="529.6" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#a1aab5" text-anchor="start">Софийская сторона</text>
+<text x="890.9" y="1098.8" font-family="system-ui, sans-serif" font-size="10" font-weight="400" fill="#a1aab5" text-anchor="start">Торговая сторона</text>
+<g transform="translate(1336.4,122.3)">
+<line x1="0" y1="22" x2="0" y2="0" stroke="#64748b" stroke-width="2"/>
+<path d="M -6,8 L 0,0 L 6,8 Z" fill="#c0392b"/>
+<text x="0" y="-6" font-family="system-ui, sans-serif" font-size="12" font-weight="700" fill="#64748b" text-anchor="middle">С</text>
+</g>
+<g transform="translate(63.6,2314.7)">
+<line x1="0" y1="0" x2="146" y2="0" stroke="#64748b" stroke-width="2"/>
+<line x1="0" y1="-4" x2="0" y2="4" stroke="#64748b" stroke-width="2"/>
+<line x1="146" y1="-4" x2="146" y2="4" stroke="#64748b" stroke-width="2"/>
+<text x="73" y="-8" font-family="system-ui, sans-serif" font-size="11" fill="#64748b" text-anchor="middle">~2 км</text>
+</g>
+</svg>

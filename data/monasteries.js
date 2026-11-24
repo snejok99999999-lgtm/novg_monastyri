@@ -1,0 +1,505 @@
+window.MONASTERIES_DATA = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Воскресенский Мячинский монастырь",
+        "type": "single",
+        "address": "Великий Новгород, район Воскресенская слобода, 15",
+        "manager": "Новгородский государственный музей-заповедник",
+        "current_use": "Музейный показ",
+        "transport": "удовлетворительная",
+        "image_path": "images/1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.275644,
+          58.507723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Владимирской иконы Божией Матери Сырков монастырь",
+        "type": "complex",
+        "address": "Новгородский район, Ермолинское сельское поселение, деревня Сырково, Технический переулок",
+        "manager": "-",
+        "current_use": "Не используется",
+        "transport": "удовлетворительная",
+        "image_path": "images/2.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2311,
+          58.5811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Воскресенский Деревяницкий монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, Державинский район, 9-й квартал, территория Деревяницкий Монастырь",
+        "manager": "Новгородская митрополия. Новгородская епархия",
+        "current_use": "Используется частично (склад)",
+        "transport": "удовлетворительная",
+        "image_path": "images/3.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.300791,
+          58.562436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Благовещенский Мячинский монастырь",
+        "type": "single",
+        "address": "Великий Новгород, Юрьевское ш., 2В",
+        "manager": "-",
+        "current_use": "Не используется",
+        "transport": "хорошая",
+        "image_path": "images/4.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.250052,
+          58.493078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Воскресенский на Красном поле монастырь",
+        "type": "single",
+        "address": "Великий Новгород, ул. Связи, 15Б",
+        "manager": "Новгородская митрополия. Новгородская епархия",
+        "current_use": "Не используется",
+        "transport": "удовлетворительная",
+        "image_path": "images/5.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.311536,
+          58.52939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Двенадцати апостолов На Пропастех монастырь",
+        "type": "single",
+        "address": "Великий Новгород, район Софийская сторона, Десятинная ул., 4А",
+        "manager": "-",
+        "current_use": "Не используется",
+        "transport": "отличная",
+        "image_path": "images/6.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.263339,
+          58.521738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Иоанно-Богословский на Витке монастырь",
+        "type": "single",
+        "address": "Великий Новгород, парк 30 лет Октября",
+        "manager": "РСПЦ, Санкт-Петербургская и Тверская Епархия",
+        "current_use": "Религиозная функция",
+        "transport": "отличная",
+        "image_path": "images/7.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.291606,
+          58.532641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Николаевский Белый монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, район Софийская сторона, ул. Бредова-Звериная, 14",
+        "manager": "-",
+        "current_use": "Творческие мастерские",
+        "transport": "отличная",
+        "image_path": "images/8.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.277909,
+          58.535017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Николаевский Вяжищский монастырь",
+        "type": "complex",
+        "address": "Новгородский район, Ермолинское сельское поселение, деревня Вяжищи",
+        "manager": "В ведении Патриарха Московского и Всея Руси",
+        "current_use": "Монастырское использование",
+        "transport": "плохая",
+        "image_path": "images/9.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.169069,
+          58.623057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Николаевский Липенский монастырь",
+        "type": "single",
+        "address": "Новгородский район, Савинское сельское поселение, местность Липно",
+        "manager": "Новгородская митрополия. Новгородская епархия",
+        "current_use": "Музейный показ (внешний осмотр)",
+        "transport": "плохая",
+        "image_path": "images/10.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.348922,
+          58.448875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Петропавловский на Сильнище монастырь",
+        "type": "single",
+        "address": "Великий Новгород, Петровское кладбище",
+        "manager": "Новгородский государственный музей-заповедник",
+        "current_use": "Музейный показ",
+        "transport": "хорошая",
+        "image_path": "images/11.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.258864,
+          58.509324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Покровский Зверин монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, район Софийская сторона, ул. Бредова-Звериная, 18",
+        "manager": "Смешанная",
+        "current_use": "Смешанное (музей, религиозная функция)",
+        "transport": "отличная",
+        "image_path": "images/12.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.276144,
+          58.53622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Рождества Богородицы Антониев монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, Донецкий район, территория Антоново, 1",
+        "manager": "Смешанная",
+        "current_use": "Смешанное (университет, музей, религиозная функция)",
+        "transport": "отличная",
+        "image_path": "images/13.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.288267,
+          58.541156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Рождества Богородицы в Перыни монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, Перынский скит",
+        "manager": "Новгородская митрополия. Новгородская епархия",
+        "current_use": "Религиозная функция",
+        "transport": "удовлетворительная",
+        "image_path": "images/14.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.274576,
+          58.473034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Рождества Богородицы Десятинный монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, район Софийская сторона, Десятинный монастырь",
+        "manager": "Смешанная",
+        "current_use": "Художественные мастерские, музейная функция",
+        "transport": "отличная",
+        "image_path": "images/15.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.264426,
+          58.517922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Рождества Богородицы Михалицкий монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, район Торговая сторона, Молотковская ул., 16",
+        "manager": "Беспоповцы Поморского согласия",
+        "current_use": "Религиозная функция (частично)",
+        "transport": "отличная",
+        "image_path": "images/16.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.297533,
+          58.525226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Рождества Христова на Красном поле монастырь",
+        "type": "single",
+        "address": "Великий Новгород, район Торговая сторона, ул. Фёдоровский Ручей, 30",
+        "manager": "-",
+        "current_use": "Не используется",
+        "transport": "хорошая",
+        "image_path": "images/17.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.310489,
+          58.523681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Свято-Духов монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, район Софийская сторона, ул. Мусы Джалиля-Духовская, 31",
+        "manager": "-",
+        "current_use": "Не используется",
+        "transport": "отличная",
+        "image_path": "images/18.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.272117,
+          58.53219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Спасо-Преображенский Ковалёв монастырь",
+        "type": "single",
+        "address": "Новгородский район, Савинское сельское поселение, урочище Ковалёво",
+        "manager": "Новгородский государственный музей-заповедник",
+        "current_use": "Не используется",
+        "transport": "плохая",
+        "image_path": "images/19.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.359415,
+          58.525541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Спасо-Преображенский Нередицкий монастырь",
+        "type": "single",
+        "address": "Новгородский район, Савинское сельское поселение, деревня Спас-Нередицы",
+        "manager": "Новгородский государственный музей-заповедник",
+        "current_use": "Музейный показ",
+        "transport": "плохая",
+        "image_path": "images/20.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.311496,
+          58.497158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "name": "Спасо-Преображенский Хутынский монастырь",
+        "type": "complex",
+        "address": "Новгородский муниципальный округ, Савинское сельское поселение, деревня Хутынь",
+        "manager": "Новгородская митрополия. Новгородская епархия",
+        "current_use": "Монастырское использование",
+        "transport": "хорошая",
+        "image_path": "images/21.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.395062,
+          58.587338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 22,
+        "name": "Троицкий Клопский монастырь",
+        "type": "complex",
+        "address": "Новгородский район, Борковское сельское поселение",
+        "manager": "Новгородская митрополия. Новгородская епархия",
+        "current_use": "Не используется",
+        "transport": "плохая",
+        "image_path": "images/22.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.121145,
+          58.375416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "name": "Успенский Волотов монастырь",
+        "type": "single",
+        "address": "Новгородский муниципальный округ, Савинское сельское поселение, деревня Волотово, Речная ул., 38",
+        "manager": "Новгородский государственный музей-заповедник",
+        "current_use": "Музейный показ",
+        "transport": "удовлетворительная",
+        "image_path": "images/23.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.356917,
+          58.537243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "name": "Успенский Колмов монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, район Колмово, ул. Павла Левитта, 18",
+        "manager": "Новгородская митрополия. Новгородская епархия",
+        "current_use": "Религиозная функция",
+        "transport": "хорошая",
+        "image_path": "images/24.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.278762,
+          58.553898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 25,
+        "name": "Юрьев монастырь",
+        "type": "complex",
+        "address": "Великий Новгород, Юрьевское ш., 10",
+        "manager": "Новгородская митрополия. Новгородская епархия",
+        "current_use": "Монастырское использование",
+        "transport": "хорошая",
+        "image_path": "images/25.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.284687,
+          58.486854
+        ]
+      }
+    }
+  ]
+};
