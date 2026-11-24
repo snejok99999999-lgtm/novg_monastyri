@@ -11,7 +11,7 @@ window.MONASTERIES_DATA = {
         "manager": "Новгородский государственный музей-заповедник",
         "current_use": "Музейный показ",
         "transport": "удовлетворительная",
-        "image_path": "images/1.jpg"
+        "image_path": "images/4.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@ window.MONASTERIES_DATA = {
         "manager": "-",
         "current_use": "Не используется",
         "transport": "хорошая",
-        "image_path": "images/4.jpg"
+        "image_path": "images/1.jpg"
       },
       "geometry": {
         "type": "Point",
