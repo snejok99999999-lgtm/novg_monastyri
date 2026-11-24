@@ -133,8 +133,8 @@
   function renderIntro() {
     panel.innerHTML = `
       <section class="intro">
-        <div class="intro__label">Монастыри Великого Новгорода</div>
-        <h1>Novg Monastyri</h1>
+        <div class="intro__label">Исторические объекты</div>
+        <h1>Монастыри Великого Новгорода</h1>
         <p class="intro__hint">Кликните на точку, зону или участок</p>
         <div class="intro__count">25 точек на карте</div>
         <div class="intro__legend"><span class="intro__legend-line"></span>Граница Великого Новгорода</div>
