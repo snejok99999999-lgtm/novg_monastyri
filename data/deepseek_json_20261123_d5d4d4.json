@@ -8,7 +8,7 @@
         "address": "Великий Новгород, район Воскресенская слобода, 15",
         "manager": "Новгородский государственный музей-заповедник",
         "current_use": "Музейный показ", "transport": "удовлетворительная",
-        "image_path": "images/1.jpg"
+        "image_path": "images/4.jpg"
       },
       "geometry": { "type": "Point", "coordinates": [31.275644, 58.507723] }
     },
@@ -39,7 +39,7 @@
         "id": 4, "name": "Благовещенский Мячинский монастырь", "type": "single",
         "address": "Великий Новгород, Юрьевское ш., 2В",
         "manager": "-", "current_use": "Не используется", "transport": "хорошая",
-        "image_path": "images/4.jpg"
+        "image_path": "images/1.jpg"
       },
       "geometry": { "type": "Point", "coordinates": [31.250052, 58.493078] }
     },
