@@ -243,7 +243,7 @@
         <div class="plot-panel__other-title">Участков у объекта: ${plots.length}</div>
         <div class="plot-panel__chips">${chips}</div>
       </div>
-      <button class="plot-panel__monastery" type="button">Открыть карточку монастыря →</button>
+      <button class="plot-panel__monastery" type="button">Открыть карточку монастыря</button>
     `;
 
     plotPanel.querySelector('.plot-panel__close').addEventListener('click', closePlotPanel);
