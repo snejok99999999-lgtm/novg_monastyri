@@ -340,7 +340,7 @@
 
   function imageCandidates(id) {
     const candidates = [`images/${id}.jpg`, `images/${id}.jpeg`];
-    for (let index = 1; index <= 8; index += 1) {
+    for (let index = 1; index <= 20; index += 1) {
       candidates.push(`images/${id}-${index}.jpg`, `images/${id}-${index}.jpeg`);
     }
     return candidates;
